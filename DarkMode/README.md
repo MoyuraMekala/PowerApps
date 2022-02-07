@@ -20,5 +20,6 @@
 # References
 * [DesignerUp](https://www.youtube.com/channel/UCw2R8kz3aotYtV9utqf0uaw)
 * [Figma](https://www.figma.com)
-* [Adobe Color](https://color.adobe.com/create/color-wheel)
+* [Material Design](https://material.io/design/color/dark-theme.html)
 * [Web Accessibility in Mind](https://webaim.org/resources/contrastchecker/)
+* [Adobe Color](https://color.adobe.com/create/color-wheel)
