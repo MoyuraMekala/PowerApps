@@ -20,3 +20,5 @@
 # References
 * [DesignerUp](https://www.youtube.com/channel/UCw2R8kz3aotYtV9utqf0uaw)
 * [Figma](https://www.figma.com)
+* [Adobe Color](https://color.adobe.com/create/color-wheel)
+* [Web Accessibility in Mind](https://webaim.org/resources/contrastchecker/)
